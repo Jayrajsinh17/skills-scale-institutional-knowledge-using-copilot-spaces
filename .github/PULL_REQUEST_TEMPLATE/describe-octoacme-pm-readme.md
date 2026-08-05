@@ -1,0 +1,1 @@
+Adds a central README in docs/ that lists and links all OctoAcme process documents and provides a brief overview of the project management approach (initiation, planning, execution, release, retrospectives, risk & communication). Links the PR to issue #2.
